@@ -16,3 +16,5 @@
 
 // TypeError: Indica que o código esperava receber um dado de um determinado tipo, tal qual uma 
 // string de texto, mas recebeu outro, como um número, booleano ou null.
+
+// Erros em NodeJs: https://nodejs.org/api/errors.html#errors_errors
